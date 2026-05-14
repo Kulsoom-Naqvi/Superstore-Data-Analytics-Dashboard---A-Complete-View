@@ -5,7 +5,7 @@ A structured attempt to turn retail data into something more than numbers on a s
 
 ________________________________________
 1. The Control Panel (Left Plane)
-The dashboard begins with the interaction layer. A dynamic Metric selector allows the analysis to shift between Sales, Profit, and Number of Orders. With a single selection, the entire dashboard changes perspective—charts, titles, labels, trends, and comparisons all adapt instantly to the chosen metric. Below it, the Region and Year filters narrow the scope further, allowing focused analysis across different locations and timelines. A show/hide filter interaction keeps the interface cleaner, revealing controls only when needed. Rather than simply controlling visuals, this section controls the narrative of the dashboard itself.
+The dashboard begins with the interaction layer. A dynamic Metric selector allows the analysis to shift between Sales, Profit, and Number of Orders. With a single selection, the entire dashboard changes perspective, charts, titles, labels, trends, and comparisons all adapt instantly to the chosen metric. Below it, the Region and Year filters narrow the scope further, allowing focused analysis across different locations and timelines. A show/hide filter interaction keeps the interface cleaner, revealing controls only when needed. Rather than simply controlling visuals, this section controls the narrative of the dashboard itself.
 ________________________________________
 2. KPI Cards (Top Layer of Insights)
 At the top sits a quick summary of business performance through three KPI indicators:
